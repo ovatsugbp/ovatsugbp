@@ -1,7 +1,7 @@
-### Hi there, welcome to my GitHub 👋
+### Hi there, welcome to my GitHub 👋<br><br>
 
-🌱 I’m currently starting to learn Web Development after many years being Personal Trainer and Sport Instructor.
-👯 I’m looking to collaborate on Open Source projects to improve my knowledge and help the community.
+🌱 I’m currently starting to learn Web Development after many years being Personal Trainer and Sport Instructor. <br>
+👯 I’m looking to collaborate on Open Source projects to improve my knowledge and help the community.<br>
 😄 Pronouns: His/Him
 
 
