@@ -1,7 +1,7 @@
 ### Hi there, welcome to my GitHub 👋<br><br>
 
 🌱 I’m currently starting to learn Web Development after many years being Personal Trainer and Sport Instructor. <br>
-👯 I’m looking to collaborate on Open Source projects to improve my knowledge and help the community.<br>
+👯 I’m looking to collaborate at Open Source projects improving my knowledge and helping the community.<br>
 😄 Pronouns: He/his/him. <br>
 📫 You can find me at <a href="https://www.linkedin.com/in/goulartgb/"> Linkedin</a>.
 
