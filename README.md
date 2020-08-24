@@ -2,8 +2,8 @@
 
 🌱 I’m currently starting to learn Web Development after many years being Personal Trainer and Sport Instructor. <br>
 👯 I’m looking to collaborate on Open Source projects to improve my knowledge and help the community.<br>
-😄 Pronouns: His/Him <br>
-📫 You can find me at <a href="https://www.linkedin.com/in/goulartgb/"> Linkedin </a>.
+😄 Pronouns: He/his/him. <br>
+📫 You can find me at <a href="https://www.linkedin.com/in/goulartgb/"> Linkedin</a>.
 
 
 <!--
