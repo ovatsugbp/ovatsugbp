@@ -1,22 +1,25 @@
-### Hi there, welcome to my GitHub 👋<br><br>
+<img src="images/me.png" align="right">
 
-🌱 I’m a FrontEnd developer and UX/UI enthusiatic. <br>
-👯 I’m looking to collaborate at Open Source projects improving my knowledge and helping the community.<br>
-😄 Pronouns: He/his/him. <br>
-📫 You can find me at <a href="https://www.linkedin.com/in/goulartgb/"> Linkedin</a>.
+<h1>Hey, Gustavo Goulart here!</h1>
+
+I'm a Front-End developer with 3+ years of experience. I also write occasionally on [dev.to](https://dev.to/ovatsugbp).
 
 
-<!--
-**ovatsugbp/ovatsugbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3>💬 Hit me up if you wanna talk about</h3>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript or Typescript
+- Acessibility
+- Ux/Ui design
+- Photography
+- Pop culture, super hero stuff and funko pop
+
+
+<h3>🐟 You can find Nemo at</h3>
+<hr>
+<ul>
+<li><a href="https://www.linkedin.com/in/goulartgb">Linkedin</a></li>
+<li><a href="mailto:gustavogoulart@outlook.com">Email</a></li>
+</ul>
+
